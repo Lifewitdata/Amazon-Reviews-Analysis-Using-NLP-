@@ -56,7 +56,6 @@ The analysis covers **EDA, text preprocessing, word cloud visualization, and sen
 🔹 **Ratings Distribution Plot** – skewed towards 4 & 5 stars.  
 🔹 **Feedback by Product Variation** – highlighted areas with negative sentiment.  
 
-> *(Insert saved images here if available – e.g. `wordcloud.png`, `ratings.png`)*  
 
 ---
 
@@ -82,5 +81,5 @@ The analysis covers **EDA, text preprocessing, word cloud visualization, and sen
 
 ---
 
-👩‍💻 **Author:** *Your Name*  
-📎 **GitHub Repo:** *[Link to repository](#)*  
+👩‍💻 **Author:** *Isfaque Ansari*  
+
